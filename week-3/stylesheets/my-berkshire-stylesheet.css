@@ -1,0 +1,32 @@
+body {
+  background: #ffffff;
+  color: #000080;
+   }
+
+a:link {
+  color: #800080;
+}
+
+a:visited {
+  color: #ff0000;
+}
+
+#container div {
+    display: inline-block;
+}
+
+
+#left div {
+	position: relative left;
+	margin-left: 20px
+	left: 0;
+}
+
+#right div {
+	float: right;
+	position: sticky;
+	margin-right: 20px
+	right: 0;
+}
+
+
