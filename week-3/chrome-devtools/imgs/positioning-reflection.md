@@ -40,4 +40,5 @@ Utilizing CSS, it is possible to resize elements using DOM by using the Height a
 		○ Padding the layer that is directly around the content and is transparent.
 		
 • **What was your impression of this challenge overall? (love, hate, and why?)**
-	•The challenge struck the right balance between challenging and fun. I had quite a bit of confusion over positioning, and this extra practice really helped me understand it better. I did have to do quite a bit of outside reading to better understand positioning, but this exercise solidified my learning.
+
+The challenge struck the right balance between challenging and fun. I had quite a bit of confusion over positioning, and this extra practice really helped me understand it better. I did have to do quite a bit of outside reading to better understand positioning, but this exercise solidified my learning.
