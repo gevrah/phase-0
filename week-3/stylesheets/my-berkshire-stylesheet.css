@@ -3,6 +3,36 @@ body {
   color: #000080;
    }
 
+#header {
+	text-align: center;
+	font-weight: bold;
+}
+
+li {
+	margin:0 0 30px 0;
+}
+
+header h1 {
+	font-size: 25px;
+	display: inline;
+}
+
+header h2 {
+	font-size: 15px;
+	display: inline;
+}
+
+header h3 {
+	font-size: 20px;
+	display: inline;
+}
+
+aside {
+	border-bottom: 1px solid #000; 
+	margin: 0px 0px 10px 0px;
+	width: 100%;
+}
+
 a:link {
   color: #800080;
 }
@@ -11,22 +41,48 @@ a:visited {
   color: #ff0000;
 }
 
-#container div {
-    display: inline-block;
+.smallfont {
+	font-size: 12px;
+}
+
+.break {
+	display: block
+}
+
+.big {
+	font-size: 35px;
+}
+
+.ad {
+	text-align: center;
+	font-size: 10px;
+}
+
+#links {
+    display: inline-flex;
+	border-bottom: 1px solid #000; 
+	border-top: 1px solid #000;
+	margin: 10px 0px 10px 0px;
+	width: 100%;
+}
+
+#left {
+	position: relative;
+	max-width: 45%;
+	left: 5%;
+}
+
+#right {
+	position: relative;
+	max-width: 45%;
+	left: 5%;
+	
+}
+
+#contact {
+	font-size: 13px;
 }
 
 
-#left div {
-	position: relative left;
-	margin-left: 20px
-	left: 0;
-}
-
-#right div {
-	float: right;
-	position: sticky;
-	margin-right: 20px
-	right: 0;
-}
 
 
