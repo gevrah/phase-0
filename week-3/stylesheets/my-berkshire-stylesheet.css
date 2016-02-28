@@ -29,7 +29,11 @@ header h3 {
 
 aside {
 	border-bottom: 1px solid #000; 
+<<<<<<< HEAD
 	margin: 0px 0px 10px 0px;
+=======
+	margin: 10px 0px 10px 0px;
+>>>>>>> berkcss
 	width: 100%;
 }
 
@@ -82,7 +86,31 @@ a:visited {
 #contact {
 	font-size: 13px;
 }
+<<<<<<< HEAD
 
+=======
+/*
+• What is important to know when linking an external file (like a stylesheet) to an HTML file?
+	• It is important to know the relative path of the file that one is linking to.
+• What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+	• This was the most frustrating part. It took me quite a bit of reading and trial and error to figure this out. I was able to get the left and right side links to line up side by side, but when I would resize the browser, they would go top-to-bottom. In the end, I made a div that contained both the left and right side divs. On the container div, I used display: inline-flex, and that got it to work. On the individual left and right divs, I used position: relative and set a max width of 45%.
+• What CSS did you use to modify the element style (like size, color, etc.)
+	• I used:
+		○ Background
+		○ Color
+		○ Text-align
+		○ Font-weight
+		○ Font-size
+		○ Margin
+		○ Border
+		○ Display
+		○ Width
+• Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+	• I used both classes and ids. Since a specific id is only to be used once per page, I only used it for specific situations. I used ids in the divs that I used for the links that were to be positioned to left and right side of the page. I used ids to make certain bits of text smaller, for breaks, and to make the two letters in the title (B & H) larger, amont other things.
+• When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+	• My document had cleaner code. The Berkshire site used html to style the page, including the use of tables instead of CSS positioning. I used HTML for structure, and CSS for style, as is the best practice. I loved how nonchalantly the Berkshire site dismisses criticism of their site: "If you have any comments about our WEB page, you can either write us at the address shown above or e-mail us at berkshire@berkshirehathaway.com. However, due to the limited number of personnel in our corporate office, we are unable to provide a direct response."
+*/
+>>>>>>> berkcss
 
 
 
