@@ -1,8 +1,8 @@
 # Pad an Array
 
-# I worked on this challenge [by myself, with: ]
+# I worked on this challenge [by myself, with: Evan Druce]
 
-# I spent [] hours on this challenge.
+# I spent [2] hours on this challenge.
 
 
 # Complete each step below according to the challenge directions and
@@ -52,7 +52,10 @@ end
 
 
 # 4. Reflection
-
+# Were you successful in breaking the problem down into small steps?
+	# We were not particularly successful at breaking the problem down into smaller sizes. We undersetimated the complexity of
+	# the situation and had to add more steps than we originally thought it would take.
+	#
 # Once you had written your pseudocode, were you able to easily translate it into code? What difficulties and successes did you have?
 	# The major difficulty came in the beginning, when we were trying to figure out how to structure
 	# the method so that it would perform the function we required. Once we figured out that we needed
