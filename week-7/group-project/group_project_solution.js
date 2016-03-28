@@ -63,7 +63,8 @@ var median = function(array) {
      
   };
 
+Person 1: Run tests
 
-
+I pasted the functions to the tests.js file and ran the tests, whI pasted the functions to the tests.js file and ran the tests and they were all successful. Good job all!ich were all successful. Good job all!
 
 
