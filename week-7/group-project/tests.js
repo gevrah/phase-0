@@ -1,6 +1,34 @@
 
 // Add the finished solution here when you receive it.
-// __________________________________________
+//Sum Function: 
+var sum = function(array) {
+    for (var i = 0, sum = 0; i < array.length; sum += array[i++]);
+    return (sum);
+   
+  };
+
+
+//Mean Function: 
+var mean = function(array) {
+    for (var i = 0, sum = 0; i < array.length; sum += array[i++]);
+    return (sum/array.length);
+
+  };
+
+//Median Function: 
+var median = function(array) {
+    for (var i = 0; i < array.length; i++);
+       if (array.length % 2 !== 0){
+          return array[(array.length-1)/2] 
+       }
+      else {
+         var x = array[((array.length-1)/2)+.5] 
+         var y = array [((array.length-1)/2)-.5]
+         return (x+y)/2
+      } 
+     
+  };
+
 // Tests:  Do not alter code below this line.
 
 

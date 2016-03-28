@@ -17,11 +17,53 @@
 // Person 2: Pseudocode
 
 
+// Sum Function takes one array as an argument
+// ADDS up all the values at EACH index into a result variable
+// RETURNS result
+
+// Mean Function takes one array as an argument
+// create a result variable 
+// ADD up EACH number in the array in the result variable
+// return the result divided by the length of the argument passed in
+
+// Median Function will take one array as an argument
+// IF argument.length is NOT DIVISIBLE by 2 
+// return the middle index of the array  (can use argument.length-1 / 2 to get the middle index count)
+// ELSE get the middle two index's of the array
+// find the mean between those two values and RETURN the mean between them
 
 // Person 3: Solution
 
+//Sum Function: 
+var sum = function(array) {
+    for (var i = 0, sum = 0; i < array.length; sum += array[i++]);
+    return (sum);
+   
+  };
 
 
-// Person 1:
+//Mean Function: 
+var mean = function(array) {
+    for (var i = 0, sum = 0; i < array.length; sum += array[i++]);
+    return (sum/array.length);
+
+  };
+
+//Median Function: 
+var median = function(array) {
+    for (var i = 0; i < array.length; i++);
+       if (array.length % 2 !== 0){
+          return array[(array.length-1)/2] 
+       }
+      else {
+         var x = array[((array.length-1)/2)+.5] 
+         var y = array [((array.length-1)/2)-.5]
+         return (x+y)/2
+      } 
+     
+  };
+
+
+
 
 
