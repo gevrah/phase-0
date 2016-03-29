@@ -29,7 +29,7 @@ SELECT region_name FROM regions WHERE region_name LIKE '%Central%';
 SELECT region_name, state_name FROM states INNER JOIN regions ON states.region_id=regions.id ORDER BY region_id ASC;
 
 Outfit Relational Database:
-![outfit_database](outfit_database.png.png)
+![outfit_database](outfit_database.png)
 
 Reflection:
 What are databases for?
