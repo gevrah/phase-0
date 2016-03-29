@@ -32,20 +32,25 @@ Outfit Relational Database:
 ![outfit_database](outfit_database.png)
 
 Reflection:
-What are databases for?
+
+**What are databases for?**
+
 Databases are for adding two datasets together, creating new datasets and thus variables. Databases help in the organization of collections of data so that the data can be worked with in many ways.
 
-What is a one-to-many relationship?
+**What is a one-to-many relationship?**
+
 A one to many relationship implies that an attribute in one table can be linked to many attributes on another table.
  You can identify a one-to-many relationship using the phrases "____ belongs to a ____. ____ has many ____.
 
 
-What is a primary key? What is a foreign key? How can you determine which is which?
+**What is a primary key? What is a foreign key? How can you determine which is which?**
+
 A primary key is a unique number ID that is used to identify unique rows and to prevent duplicates. A primary key is usually a number.
 
 A foreign key is an ID number in a child table which is used to reference the parent table.
 
 
-How can you select information out of a SQL database What are some general guidelines for that?
+**How can you select information out of a SQL database What are some general guidelines for that?**
+
 It's possible to select information from an SQL database using the SELECT statement within an SQL shell in the terminal. 
 
