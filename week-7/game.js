@@ -60,7 +60,7 @@
 // };
 
 
-// console.log("The city is abuzz with praise for Captain Hammer's successfull campagin against homelessness. We're at the unveiling of a statue to honor Captain Hammer's achievements, with his lover and your crush Penny there to witness it. Captain Hammer is on the stage giving a speech. End his narcisistic charade once and for all: use your Death Ray [type: deathRay() into console] or your Freeze Ray [type: freezeRay()] on him!")
+// console.log("The city is abuzz with praise for Captain Hammer's successfull campagin against homelessness. We're at the unveiling of a statue to honor Captain Hammer's achievements, with his lover and your crush Penny there to witness it. Captain Hammer is on the stage giving a speech. End his narcissistic charade once and for all: use your Death Ray [type: deathRay() into console] or your Freeze Ray [type: freezeRay()] on him!")
 
 
 
@@ -161,7 +161,7 @@ var penny = {
 
 // Initialize game:
 console.log("..........................");
-console.log("**The city is abuzz with praise for Captain Hammer's successfull campagin against homelessness. We're at the unveiling of a statue to honor Captain Hammer's achievements, with his lover and your crush Penny there to witness it. Captain Hammer is on the stage giving a speech. End his narcisistic charade once and for all: use your Death Ray [type: deathRay() into console] or your Freeze Ray [type: freezeRay()] on him!**");
+console.log("**The city is abuzz with praise for Captain Hammer's successfull campagin against homelessness. We're at the unveiling of a statue to honor Captain Hammer's achievements, with his lover and your crush Penny there to witness it. Captain Hammer is on the stage giving a speech. End his narcissistic charade once and for all: use your Death Ray [type: deathRay() into console] or your Freeze Ray [type: freezeRay()] on him!**");
 console.log("..........................");
 
 // Death Ray Attack:
@@ -195,9 +195,9 @@ var deathRay = function() {
 		console.log("-----Game over!-----");
 		console.log(reset ());
 		console.log("..........................");
-		console.log("........Restarting........");
+		console.log("........Resetting........");
 		console.log("..........................");
-		console.log("The city is abuzz with praise for Captain Hammer's successfull campagin against homelessness. We're at the unveiling of a statue to honor Captain Hammer's achievements, with his lover and your crush Penny there to witness it. Captain Hammer is on the stage giving a speech. End his narcisistic charade once and for all: use your Death Ray [type: deathRay() into console] or your Freeze Ray [type: freezeRay()] on him!");	
+		console.log("The city is abuzz with praise for Captain Hammer's successfull campagin against homelessness. We're at the unveiling of a statue to honor Captain Hammer's achievements, with his lover and your crush Penny there to witness it. Captain Hammer is on the stage giving a speech. End his narcissistic charade once and for all: use your Death Ray [type: deathRay() into console] or your Freeze Ray [type: freezeRay()] on him!");	
 		console.log("..........................");
 	}
 
@@ -206,9 +206,9 @@ var deathRay = function() {
 		console.log("-----Game over!-----");
 		console.log(reset ());
 		console.log("..........................");
-		console.log("........Restarting........");
+		console.log("........Resetting........");
 		console.log("..........................");
-		console.log("The city is abuzz with praise for Captain Hammer's successfull campagin against homelessness. We're at the unveiling of a statue to honor Captain Hammer's achievements, with his lover and your crush Penny there to witness it. Captain Hammer is on the stage giving a speech. End his narcisistic charade once and for all: use your Death Ray [type: deathRay() into console] or your Freeze Ray [type: freezeRay()] on him!");	
+		console.log("The city is abuzz with praise for Captain Hammer's successfull campagin against homelessness. We're at the unveiling of a statue to honor Captain Hammer's achievements, with his lover and your crush Penny there to witness it. Captain Hammer is on the stage giving a speech. End his narcissistic charade once and for all: use your Death Ray [type: deathRay() into console] or your Freeze Ray [type: freezeRay()] on him!");	
 		console.log("..........................");
 	}
 
@@ -217,9 +217,9 @@ var deathRay = function() {
 		console.log("-----Game over!-----");
 		console.log(reset ());
 		console.log("..........................");
-		console.log("........Restarting........");
+		console.log("........Resetting........");
 		console.log("..........................");
-		console.log("**The city is abuzz with praise for Captain Hammer's successfull campagin against homelessness. We're at the unveiling of a statue to honor Captain Hammer's achievements, with his lover and your crush Penny there to witness it. Captain Hammer is on the stage giving a speech. End his narcisistic charade once and for all: use your Death Ray [type: deathRay() into console] or your Freeze Ray [type: freezeRay()] on him!**");
+		console.log("**The city is abuzz with praise for Captain Hammer's successfull campagin against homelessness. We're at the unveiling of a statue to honor Captain Hammer's achievements, with his lover and your crush Penny there to witness it. Captain Hammer is on the stage giving a speech. End his narcissistic charade once and for all: use your Death Ray [type: deathRay() into console] or your Freeze Ray [type: freezeRay()] on him!**");
 		console.log("..........................");
 	}
 
