@@ -87,7 +87,7 @@ michaelPhelps.whatAmI()
 // Reflection
 
 // • What JavaScript knowledge did you solidify in this challenge?
-//   I'm starting to get more comfortable writing functions within Ruby. 
+//   I'm starting to get more comfortable writing functions within Javascript.
 //   This challenge also gave me a better feel for Javascript's syntax.
 
 // • What are constructor functions?
